@@ -10,11 +10,11 @@ from docx import Document
 import subprocess
 import platform
 
-# Define the directory where user logs will be saved
+# Directory where user logs will be saved
 USER_LOG_DIR = os.path.join(os.getcwd(), 'user_log')
 os.makedirs(USER_LOG_DIR, exist_ok=True)
 
-# Define the directory for config files
+# Directory for config files
 CONFIG_DIR = os.path.join(os.getcwd(), 'data', 'config')
 os.makedirs(CONFIG_DIR, exist_ok=True)
 
