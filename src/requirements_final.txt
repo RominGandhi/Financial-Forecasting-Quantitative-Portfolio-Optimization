@@ -1,0 +1,6 @@
+yfinance
+numpy
+scipy
+docx
+requests
+pandas
