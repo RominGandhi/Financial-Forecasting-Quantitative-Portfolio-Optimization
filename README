@@ -1,11 +1,4 @@
-This project is currently in progress and is expected to be completed by September 2024. For a detailed understanding, please refer to the two Word documents titled 'Financial_Instrument_Prediction_Explanation.docx' and 'Portfolio_Optimization_Algorithm_Explanation.docx' in the Project Overview folder. The machine learning Python file is not included as it is still being trained to enhance accuracy and resolve any existing issues.
-
-
-
-
-
-
-
+This project is currently in progress and is expected to be completed by September 2024. For a detailed understanding, please refer to the two Word documents titled Financial_Instrument_Prediction_Explanation.docx and Portfolio_Optimization_Algorithm_Explanation.docx in the Project Overview folder. The machine learning Python file is not included as it is still being trained to enhance accuracy and resolve any existing issues. Additionally, error handling is currently being improved in the main.py file for portfolio optimization, though the functionality remains unchanged.
 
 
 
