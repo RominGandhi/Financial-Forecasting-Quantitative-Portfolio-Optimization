@@ -97,16 +97,16 @@ The project offers portfolio optimization using the **Sharpe Ratio** and **Minim
 ## 📈 How It Works
 
 ### Data Fetching & Preprocessing
-The project fetches historical stock prices and exchange data using Yahoo Finance and Alpha Vantage. The data is then preprocessed, with weekends and holidays removed based on the exchange calendar for each stock ticker.
+The project fetches historical stock prices and exchange data using Yahoo Finance, Alpha Vantage and CryptoCompare. The data is then preprocessed, with weekends and holidays removed based on the exchange calendar for each asset ticker.
 
 ### LSTM Model for Stock Price Prediction
-The LSTM model is trained on historical data to predict future stock prices. You can select how many days ahead to predict, and the model will output both actual and predicted stock prices.
+The LSTM model is trained on historical data to predict future stock prices. You can select how many days ahead to predict, and the model will output both actual and predicted stock prices within an graph.
 
 ### Portfolio Optimization
 The optimization module (`optimization.py`) uses **numerical optimization** to determine the best asset weights for either minimizing risk or maximizing the Sharpe Ratio.
 
 ### Generating Reports
-The project includes a module to generate detailed reports with portfolio analysis, including predicted asset prices and optimal portfolio allocations. These reports are saved as `.docx` files for easy sharing.
+The project includes a module to generate detailed reports and csv file with portfolio analysis, including predicted asset prices and optimal portfolio allocations. These files are saved as `.docx` or `.csv`files for easy sharing.
 
 ---
 
