@@ -35,18 +35,20 @@ Key features include:
 ```
 📦 Financial-Instruments-Predictive-Analytics-Portfolio-Optimization
  ┣ 📂 data
+ ┃ ┣ 📂 config                    # Configuration data (if applicable)
  ┃ ┣ 📂 historical_data           # Historical stock data CSV files
  ┃ ┗ 📂 Predicted Prices          # Folder to save predicted prices CSVs
- ┣ 📂 models                      # Saved trained LSTM models
- ┣ 📜 README.md                   # This file
- ┣ 📜 requirements.txt            # Python dependencies
- ┣ 📜 data_fetcher.py             # Fetch financial data from APIs
- ┣ 📜 exchange_mapping.py         # Map exchange codes for holiday handling
- ┣ 📜 generate_doc.py             # Generate reports for portfolio analysis
- ┣ 📜 main.py                     # Main execution script
- ┣ 📜 optimization.py             # Portfolio optimization methods
- ┣ 📜 portfolio_metrics.py        # Portfolio metric calculations
- ┗ 📜 predict_prices.py           # Predict stock prices using LSTM
+ ┣ 📂 src                         # Source code files
+ ┃ ┣ 📂 __pycache__               # Compiled Python files
+ ┃ ┣ 📜 data_fetcher.py           # Fetch financial data from APIs
+ ┃ ┣ 📜 exchange_mapping.py       # Map exchange codes for holiday handling
+ ┃ ┣ 📜 generate_doc.py           # Generate reports for portfolio analysis
+ ┃ ┣ 📜 main.py                   # Main execution script
+ ┃ ┣ 📜 optimization.py           # Portfolio optimization methods
+ ┃ ┣ 📜 portfolio_metrics.py      # Portfolio metric calculations
+ ┃ ┗ 📜 predict_prices.py         # Predict stock prices using LSTM
+ ┣ 📂 user_log                    # Log directory for user activities
+ ┗ 📜 README.md                   # This file
 ```
 
 ---
