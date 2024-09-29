@@ -85,6 +85,7 @@ The project offers portfolio optimization using the **Sharpe Ratio** and **Minim
 
 3. **Set up your API keys**:
    - Replace the placeholder `ALPHA_VANTAGE_API_KEY` in `data_fetcher.py` with your actual API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
+   - Replace the placeholder `CRYPTOCOMPARE_API_KEY` in in `data_fetcher.py` with your actual API key from [CryptoCompare](https://min-api.cryptocompare.com/).
 
 4. **Run the main script**:
    ```bash
