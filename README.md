@@ -49,6 +49,7 @@ Key features include:
  ┃ ┗ 📜 predict_prices.py         # Predict stock prices using LSTM
  ┣ 📂 user_log                    # Log directory for user activities
  ┗ 📜 README.md                   # This file
+ ┗ 📜 requirements.txt            # All the Python libraries and specific versions that are essential for running the project
 ```
 
 ---
