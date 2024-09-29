@@ -51,6 +51,7 @@ Key features include:
  ┣ 📂 user_log                    # Log directory for user activities
  ┗ 📜 README.md                   # This file
  ┗ 📜 requirements.txt            # All the Python libraries and specific versions that are essential for running the project
+ ┗ 📜 LICENSE                     # You are free to use, copy, modify, merge, publish, distribute, and sublicense the project, as long as the original copyright and permission notice are included
 ```
 
 ---
