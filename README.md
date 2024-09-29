@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14.0-orange.svg)](https://www.tensorflow.org/)  
 [![Alpha Vantage](https://img.shields.io/badge/Alpha--Vantage-API-green.svg)](https://www.alphavantage.co/)
-[![CryptoCompare](https://img.shields.io/badge/Alpha--Vantage-API-green.svg)](https://www.cryptocompare.com/)
+[![CryptoCompare](https://img.shields.io/badge/CryptoCompare-API-green.svg)](https://www.cryptocompare.com/)
 
 > This project not only predicts future stock prices but also provides **portfolio optimization** using various risk metrics such as the Sharpe ratio and volatility. It integrates financial data from APIs, processes time-series data, and generates optimal portfolio allocations using advanced machine learning techniques.
 
