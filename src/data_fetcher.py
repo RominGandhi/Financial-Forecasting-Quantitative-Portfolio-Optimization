@@ -14,8 +14,8 @@ os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(CONFIG_DIR, exist_ok=True)
 
 # API keys for different data sources
-ALPHA_VANTAGE_API_KEY = 'OJ8TCL50HAAKMZDN'  # Alpha Vantage API key
-CRYPTOCOMPARE_API_KEY = '6cebe1154d5db5cfe0b482d32f0c86314f9f855effd4ab8fce873366c1d700b6'  #  Cryptocompare API key
+ALPHA_VANTAGE_API_KEY =   # Alpha Vantage API key
+CRYPTOCOMPARE_API_KEY =   #  Cryptocompare API key
 
 
 def get_asset_name(ticker):
