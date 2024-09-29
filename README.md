@@ -148,4 +148,5 @@ This project is for educational purposes only. Stock price prediction and portfo
 
 - **Alpha Vantage** for providing the free API for fetching financial data.
 - **Yahoo Finance** for real-time stock market data.
+- **CryptoCompare** for providing cryptocurrency data through their API.
 - Open-source developers for the amazing libraries that make this project possible!
