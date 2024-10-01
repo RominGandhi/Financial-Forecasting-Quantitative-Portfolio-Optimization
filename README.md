@@ -9,7 +9,7 @@
 
 This project not only predicts future stock prices but also provides **portfolio optimization** using various risk metrics such as the Sharpe ratio and volatility. It integrates financial data from APIs, processes time-series data, and generates optimal portfolio allocations using advanced machine learning techniques.
 
-> Note: This project is currently in progress. Several bugs and limitations may exist, and we are actively working on improving performance and accuracy. Future enhancements will include better support for additional financial assets such as Bitcoin, bonds, and more sophisticated prediction models.
+> Note: This project is currently in progress. Several bugs and limitations may exist, and I are actively working on improving performance and accuracy. Future enhancements will include better support for additional financial assets such as Bitcoin, bonds, and more sophisticated prediction models.
 
 ## 🎯 Project Overview
 
